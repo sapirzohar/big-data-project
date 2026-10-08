@@ -393,9 +393,11 @@ python -m venv .venv
 Open `notebooks/01_data_exploration.ipynb` with kernel **Python (bigData)**.
 
 ## Team
+Academic group project developed by:
 
-Up to 3 members. Suggested split: Data (Kafka/Spark) · Search (ES/Kibana) · AI/App (Ollama/UI).
-
+- Noa Klein
+- Shani Nadav
+- Sapir Zohar
 ## License
 
 Academic course project. MovieLens dataset © GroupLens Research.
